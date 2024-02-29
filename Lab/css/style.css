@@ -1,0 +1,15 @@
+body {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.category {
+    border-width: 5px;
+    border-top: 5px solid red;
+    border-bottom: 5px solid blue;
+    border-left: 5px dotted green;
+    border-right: 5px dashed purple;
+    padding: 100px;
+    margin: 100px;
+    width: 100px;
+}
